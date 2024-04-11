@@ -1,3 +1,4 @@
+
 @import url("style.css");
 
 :root {
@@ -70,7 +71,6 @@
   border-radius: 14px;
   border: 1px solid var(--we-color-font-placeholder);
 }
-
 
 
 .produto-detalhe-acima {
