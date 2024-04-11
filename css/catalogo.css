@@ -38,43 +38,7 @@
   display: flex;
   align-items: center;
 }
-.wwe-search-bar button, .we-search-bar input {
-  border: 1px solid var(--we-color-card-border);
-}
-.we-search-bar {
-  height: 40px;
-  display: flex;
-  color: var(--we-color-font-primary);
-}
 
-.we-search-bar input {
-  width: calc(100% - 80px);
-  border-left: none;
-  border-right: none;
-  padding: 0 10px;
-  font-size: 16px;
-  color: var(--we-color-font-primary);
-}
-.we-search-bar input:focus {
-  outline: none;
-}
-
-.we-search-bar input::placeholder {
-  color: var(--we-color-font-placeholder);
-}
-.we-search-bar button {
-  width: 40px;
-  color: var(--we-color-font-primary);
-}
-.we-search-bar button[type="submit"] {
-  border-right: none;
-  border-radius: 4px 0 0 4px;
-}
-
-.we-search-bar button[type="reset"] {
-  border-left: none;
-  border-radius: 0 4px 4px 0;
-}
 .we-section-title {
   text-align: center;
   color: var(--we-color-font-primary);
