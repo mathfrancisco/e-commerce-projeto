@@ -3,16 +3,15 @@
 #admin-home-section {
   padding: 20px 0;
 }
-.we-navbar-right {
+/* .we-navbar-right {
   display: flex;
   align-items: center;
-}
+} */
 .we-section-title {
   text-align: center;
-  color: var(--we-color-font-primary);
+  background-color:var(--we-color-card-bg);
+  height: 600px;
+  width: 960px;
+  border-radius: 10px;
   font-size: 16px;
-}
-.we-header-admin {
-  background-color: var(--we-color-bg-quaternary);
-  color: var(--we-color-font-tertiary);
 }
