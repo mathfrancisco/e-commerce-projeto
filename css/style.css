@@ -279,7 +279,11 @@ nav h1{
   padding-left: 4px;
 }
 
-
+.we-form {
+  background-color: var(--we-color-card-bg);
+  border-radius: 14px;
+  border: 1px solid var(--we-color-font-placeholder);
+}
 
 .we-table {
   width: 100%;
