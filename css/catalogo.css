@@ -69,7 +69,13 @@
   width: 150px;
   height: 150px;
 }
+.card:hover{
+  border: 1px solid #3483fa;
+  cursor: pointer;
+  border-radius: 10px;
+  background-color: azure;
 
+}
 .we-catalog-card-bottom {
   padding: 10px 20px;
   min-height: 110px;
