@@ -12,6 +12,7 @@
   
   .we-product-form-buttons {
     width: 100%;
+    
     display: grid;
     grid-gap: 20px;
     grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));

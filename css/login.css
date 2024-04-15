@@ -4,15 +4,17 @@ body{
 }
 #login-section {
   padding: 20px 0;
+  
 }
 
 .we-login-form-container {
   width: 100%;
   max-width: 360px;
   margin: 0 auto;
+  margin-top: 20px;
 } 
 
- .we-login-form-buttons {
+.we-login-form-buttons {
   display: flex;
   justify-content: center;
   margin:  auto;
