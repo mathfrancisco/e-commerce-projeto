@@ -117,6 +117,7 @@ nav h1{
   border: 1px solid var(--we-color-card-bg);
   background-color: var(--we-color-btn-primary);
   color: var(--we-color-bg-primary);
+  font-weight: 600;
 }
 
 .btn-branco {
@@ -126,6 +127,7 @@ nav h1{
   background-color: var(--we-color-bg-primary);
   color: var(--we-color-btn-primary);
   border: 1px solid var(--we-color-btn-primary);
+  font-weight: 600;
 }
 
 .we-form {
